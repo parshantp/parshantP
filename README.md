@@ -44,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princekr301&show_icons=true&locale=en" alt="princekr301" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princekr301&" alt="princekr301" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princekr301&" alt="parshantp" /></p>

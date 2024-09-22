@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
- <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png" />
+ <img src="https://www.seedinfotech.com/wp-content/uploads/2023/11/data_analytics.png" />
 </h1>
 
 

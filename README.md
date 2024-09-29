@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parshant</h1>
-<h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
+<h3 align="center">Data Analytics Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
  <img src="https://www.seedinfotech.com/wp-content/uploads/2023/11/data_analytics.png" />
